@@ -1,0 +1,78 @@
+# API Keys / Sensitive Information
+*.env
+
+# Data Files
+*.csv
+*.json
+*.pkl
+
+# Distribution / Packaging
+.eggs/
+.installed.cfg
+.Python
+*.egg
+*.egg-info/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swo
+*.swp
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Matplotlib
+.matplotlib/
+
+# OS Generated Files
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# Temporary Files
+*.tmp
+
+# Unit Test / Coverage Reports
+.cache
+.coverage
+.coverage.*
+.hypothesis/
+.tox/
+*.cover
+coverage.xml
+htmlcov/
+nosetests.xml
+
+# Virtual Environment
+env/
+ENV/
+venv/

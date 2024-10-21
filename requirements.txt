@@ -1,0 +1,13 @@
+altair==4.2.2
+ccxt==4.3.57
+matplotlib==3.9.1
+newsapi-python==0.2.7
+nltk==3.9.1
+pandas==2.2.2
+plotly==5.22.0
+python-dotenv==1.0.1
+pytorch==2.4.0
+pytorch-cuda==11.8
+requests==2.32.3
+scikit-learn==1.5.1
+streamlit==1.37.0
