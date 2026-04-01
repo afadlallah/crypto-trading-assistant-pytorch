@@ -2,7 +2,7 @@ altair==4.2.2
 ccxt==4.3.57
 matplotlib==3.9.1
 newsapi-python==0.2.7
-nltk==3.9.3
+nltk==3.9.4
 pandas==2.2.2
 plotly==5.22.0
 python-dotenv==1.0.1
